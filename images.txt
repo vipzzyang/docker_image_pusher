@@ -1,1 +1,4 @@
 registry.cn-shenzhen.aliyuncs.com/zhusun/springboot
+registry.cn-shenzhen.aliyuncs.com/dankal/nginx
+registry.cn-shenzhen.aliyuncs.com/dankal/nginx-gen
+registry.cn-shenzhen.aliyuncs.com/dankal/redis
